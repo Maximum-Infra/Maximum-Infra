@@ -2,7 +2,7 @@
 
 # Max Yonatan
 
-### Infrastructure Engineer — Systems, Networking & Observability
+### Infrastructure Engineer — Systems, Networking, Security & Observability
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+resilient+infrastructure;Docker+%7C+Linux+%7C+Networking;Monitoring+%26+Observability+at+scale;Computer+Vision+%2B+Real-time+Systems)](https://git.io/typing-svg)
 
